@@ -59,7 +59,7 @@ npm run
 
 # Erste
 
-you need to add your work to `main` branch
+Du solltest dein Dokument zum `main` branch hinzufügen
 
 ```
 git add . && git commit -m "your commit" && git push origin main
@@ -67,18 +67,18 @@ git add . && git commit -m "your commit" && git push origin main
 
 # Sekunde
 
-you need to upload your `dist` dir to `gh-pages`,
-Don't worry gh-pages commands will take care of that.
+Du musst dein `dist` dir auf `gh-pages` hochladen,
+Keine Sorge, gh-pages Befehle kümmern sich darum.
 
-to do so just follow
+Folge einfach
 
 ```
 npm run build
 npm run deploy
 ```
 
-`build` : creates/update your `dist`dir
-`deploy` : push what in `dist` to your `gh-pages` branch
-ps: It will also create github pages link for you (on the first time your run it)
+`build` : erstellt/aktualisiert dein `dist` dir
+`deploy` : Pushe was in `dist` zu deinem `gh-pages` Zweig
+ps: Es wird auch einen Link zu Github-Pages für dich erstellen (wenn du es zum ersten Mal ausführen)
 
 Happy coding 🍀
