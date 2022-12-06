@@ -47,7 +47,7 @@ echo "node_modules" >> .gitignore
 starte deinen server und sass watch
 
 ```
-npm run
+npm start
 
 ```
 
