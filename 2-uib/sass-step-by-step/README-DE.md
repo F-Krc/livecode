@@ -55,7 +55,7 @@ npm start
 
 `<link rel="stylesheet" href="./styles/main.css" />`
 
-# Wenn du din Projekt pushen und veröffentlichen möchten
+# Wenn du dein Projekt pushen und veröffentlichen möchtest
 
 # Erste
 
